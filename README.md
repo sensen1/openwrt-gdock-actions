@@ -2,7 +2,7 @@
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/tiators/openwrt-gdock-actions?label=%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80&style=for-the-badge)](https://github.com/tiators/openwrt-gdock-actions/releases/latest)
 
-> 固件每 3 天的 18 点更新
+> 固件每 3 天更新
 
 地址：192.168.123.1
 
