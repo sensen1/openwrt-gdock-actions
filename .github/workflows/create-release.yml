@@ -9,8 +9,8 @@
 name: Create release
 
 on:
-  schedule:
-    - cron: 0 2 */3 * *
+#  schedule:
+ #   - cron: 0 2 */3 * *
 #  watch:
 #    types: started
 
